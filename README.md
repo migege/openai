@@ -1,6 +1,6 @@
 # OpenAI ChatCLI in Python
 
-An extremely OpenAI ChatCLI example in python
+An extremely simple OpenAI ChatCLI example in python
 
 ## Prerequisites
 
